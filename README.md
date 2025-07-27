@@ -56,12 +56,12 @@ origin이라는 이름과 본인레포주소가 맞는지, </br>upstream 이름�
 4. 조직 저장소의 내 닉네임의 레포 - Pull request - Merge pull request(초록색 버튼) - confirm merge(초록색 버튼) 클릭
 5. 보라색의 Merged 뱃지가 보인다면 성공!
    
-   </br></br></br></br>
+   </br></br>
 
 ### 🙃 그래도 아직 잘 모르겠다면, 
 디스코드나 카카오톡을 통해 운영진에게 연락주세요!
 
-</br> </br> </br> </br>
+</br> </br>
 
 ## 🚀 이제 준비가 되었나요? 
 ```코딩은 너로부터!```</br> </br>
